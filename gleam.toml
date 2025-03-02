@@ -2,7 +2,7 @@ name = "sorbet"
 version = "1.0.0"
 description = "A simple key-value configuration format parser and formatter for Gleam with support for multi-line values."
 licences = ["MIT"]
-repository = { type = "github", user = "thoq-jar", repo = "sorbet-gleam" }
+repository = { type = "github", user = "gleemers", repo = "glee-sorbet" }
 # TODO: Add website
 # links = [{ title = "Website", href = "" }]
 
