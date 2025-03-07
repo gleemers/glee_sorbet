@@ -1,5 +1,5 @@
 name = "sorbet"
-version = "1.0.0"
+version = "1.1.0"
 description = "A simple key-value configuration format parser and formatter for Gleam with support for multi-line values."
 licences = ["MIT"]
 repository = { type = "github", user = "gleemers", repo = "glee-sorbet" }
